@@ -1,3 +1,7 @@
 site_name: Collin's English 10 Portfolio
 
+nav:
+  - Home : index.md
 
+
+theme: dracula
